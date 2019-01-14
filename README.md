@@ -18,3 +18,5 @@ If pydicom is not installed, it can be installed using command pip install pydic
 
 For more information on pydicom library,\
 https://pydicom.github.io/pydicom/stable/getting_started.html
+
+The [notebook](https://github.com/pskshyam/ReadingDICOMFiles/blob/master/ReadingDICOMFiles.ipynb) for this implementation can be found in this repository.
